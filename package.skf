@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-id"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Генерация идентификаторов (UUID, NanoID)."
+    репозиторий = "github.com/skytech-alt/skyforge-id"
+    точка_входа = "code/main.skf"
+    теги = ["id", "uuid", "nanoid"]
+    лицензия = "MIT"
+    зависимости = []
+}
